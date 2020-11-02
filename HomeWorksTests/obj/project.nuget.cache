@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZlFgAm1dcdmRWchvkeRH/5yQ8lsSKdK4j0vDN6WLECrKetHMQaLU2tJHQNs6JyXszTpVIgXgvuy1ET+KA5KyDw==",
+  "dgSpecHash": "0bhl/2f+XlS0Bo8wu1xupcK2ZLd83efh3s54Op2aknehPSxTkOQs1+EmU3+cgT5+PVWW5xP4P25NVj6kkT9G9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Олег\\Desktop\\AllHomeWorks\\HomeWorksTests\\HomeWorksTests.csproj",
+  "projectFilePath": "C:\\Users\\Олег\\source\\repos\\AllHomeWorks\\HomeWorksTests\\HomeWorksTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Олег\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Олег\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

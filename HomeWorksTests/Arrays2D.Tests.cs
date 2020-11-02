@@ -9,6 +9,7 @@ namespace HomeWorksTests
     {
         [TestCase(1, 1)]
         [TestCase(2, 3)]
+        [TestCase(3, 4)]
         public void GetMinimum(int nMock, int expected)
         {
             int[,] array = GetArrayMock(nMock);
@@ -18,6 +19,7 @@ namespace HomeWorksTests
 
         [TestCase(1, 9)]
         [TestCase(2, 678)]
+        [TestCase(3, 999)]
         public void GetMaximum(int nMock, int expected)
         {
             int[,] array = GetArrayMock(nMock);
@@ -27,6 +29,7 @@ namespace HomeWorksTests
 
         [TestCase(1, new int[] { 0, 0 })]
         [TestCase(2, new int[] { 0, 6 })]
+        [TestCase(3, new int[] { 0, 0 })]
         public void GetIndexofMinimum(int nMock, int[] expected)
         {
             int[,] array = GetArrayMock(nMock);
@@ -36,6 +39,7 @@ namespace HomeWorksTests
 
         [TestCase(1, new int[] { 2, 2 })]
         [TestCase(2, new int[] { 1, 6 })]
+        [TestCase(3, new int[] { 2, 2 })]
         public void GetIndexofMaximum(int nMock, int[] expected)
         {
             int[,] array = GetArrayMock(nMock);
@@ -45,6 +49,7 @@ namespace HomeWorksTests
 
         [TestCase(1, 1)]
         [TestCase(2, 6)]
+        [TestCase(3, 4)]
         public void GetQuantityBiggerNumberWithNeighbours(int nMock, int expected)
         {
             int[,] array = GetArrayMock(nMock);
@@ -54,6 +59,7 @@ namespace HomeWorksTests
 
         [TestCase(1, 1)]
         [TestCase(2, 2)]
+        [TestCase(3, 3)]
         public void Transpose(int nMock, int nExpectedMock)
         {
             int[,] array = GetArrayMock(nMock);
@@ -84,6 +90,14 @@ namespace HomeWorksTests
                         { 32,65,23},
                         { 3,678,45}
                     };
+                case 3:
+                    return new int[,]
+                    {
+                        { 4,858,838},
+                        { 67,34,5},
+                        {4,435,999 },
+                        { 8,4,435}
+                    };
                 default:
                     throw new IndexOutOfRangeException();
             }
@@ -106,6 +120,13 @@ namespace HomeWorksTests
                         {4,  43,234,23, 43,32,3 },
                         {435,4, 87, 657,34,65,678 },
                         {456,34,564,324,45,23,45 }
+                    };
+                case 3:
+                    return new int[,]
+                    {
+                        {4,  67,4,  8 },
+                        {858,34,435,4},
+                        {838,5, 999,435 }
                     };
                 default:
                     throw new IndexOutOfRangeException();
