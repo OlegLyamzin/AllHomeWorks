@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AllHomeWorks/1.0.0": {
+        "dependencies": {
+          "HomeWorks": "1.0.0"
+        },
+        "runtime": {
+          "AllHomeWorks.dll": {}
+        }
+      },
+      "HomeWorks/1.0.0": {
+        "runtime": {
+          "HomeWorks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllHomeWorks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeWorks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

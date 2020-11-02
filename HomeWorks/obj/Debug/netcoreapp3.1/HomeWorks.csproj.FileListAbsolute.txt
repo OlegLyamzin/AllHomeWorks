@@ -1,0 +1,17 @@
+D:\AllHomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+D:\AllHomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+D:\AllHomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+D:\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+D:\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+D:\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+D:\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+D:\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\Олег\Desktop\AllHomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
